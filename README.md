@@ -4,9 +4,8 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 </div>
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/MutasimSweileh/MutasimSweileh/blob/main/grid-snake.svg"
+       alt="snake" />
 </div>
 
 I am a full-stack developer with more than seven years of successful experience. I do love coding. This is my life. I am eager to find unique solutions and implement them in my code to make my clients happy and solve their business tasks and problems, so my client can enjoy the result.
@@ -45,8 +44,19 @@ Know about my experiences <a href="https://github.com/MutasimSweileh/MutasimSwei
 
 ✅ WordPress / Theme, Plugins Development / WP Customization
 
-✅ Nginx / apache /docker / Cloud Services such as AWS, Digitalocean
+✅ Nginx / apache /docker / Cloud Services such as AWS, Digitalocean <br/>
 
+<h3>Quick Stats</h3>
+        <p align="center">
+                  <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutasimSweileh&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="MutasimSweileh :: overall Top Langs " />
+          <a href="https://github.com/MutasimSweileh/">
+          <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MutasimSweileh&theme=gruvbox&layout=compact&hide_border=true"
+          alt="MutasimSweileh :: Top Langs by repo" />
+          <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MutasimSweileh&theme=gruvbox&layout=compact&hide_border=true"
+          alt="MutasimSweileh :: Top Langs by commit" />
+          </a>
+        </p>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
