@@ -1,4 +1,13 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi there 👋, I'm Mutasim</h1>
+<h4 align="center">a full-stack developer, see my <a href="https://github.com/MutasimSweileh/MutasimSweileh/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+</div>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <!--
 **MutasimSweileh/MutasimSweileh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
