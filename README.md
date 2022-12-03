@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi there 👋, I'm Mutasim</h1>
-<h4 align="center"><span style="color: #f85149;"><</span><span>Software Engineer</span><span style="color: #f85149;">/></span></h4>
+<h4 align="center"><span color="#f85149" style="color: #f85149;"><</span><span>Software Engineer</span><span style="color: #f85149;">/></span></h4>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 </div>
 <div align="center">
