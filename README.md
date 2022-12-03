@@ -14,7 +14,9 @@ I maintained multiple ongoing projects by prioritizing, setting timelines & assi
 
 I love to code a lot, but I am passionate about business and development, so I created some special projects and went on a lot into the problems of projects and how to succeed.
 
-Know about my experiences <a href="https://github.com/MutasimSweileh/MutasimSweileh/blob/main/Mutasim_Resume.pdf" target="blank">Resume</a> <a target="_blank" align="center"> <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> </a> ✨ Services I Offer
+Know about my experiences <a href="https://github.com/MutasimSweileh/MutasimSweileh/blob/main/Mutasim_Resume.pdf" target="blank">Resume</a> <a target="_blank" align="center"> <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> </a>
+
+✨ Services I Offer
 
 ✅ Web & mobile development.
 
@@ -47,11 +49,13 @@ Know about my experiences <a href="https://github.com/MutasimSweileh/MutasimSwei
 <h3>Quick Stats</h3>
         <p align="center">
           <a href="https://github.com/MutasimSweileh/">
+            <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirazazy&theme=dark&hide=TCL" alt="MutasimSweileh :: overall Top Langs " />
+<!-- 
                             <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutasimSweileh&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="MutasimSweileh :: overall Top Langs " />
-          <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MutasimSweileh&theme=gruvbox&layout=compact&hide_border=true"
+          alt="MutasimSweileh :: overall Top Langs " /> -->
+          <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MutasimSweileh&theme=gruvbox&layout=compact&hide_border=true"
           alt="MutasimSweileh :: Top Langs by repo" />
-          <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MutasimSweileh&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MutasimSweileh&theme=gruvbox&layout=compact&hide_border=true"
           alt="MutasimSweileh :: Top Langs by commit" />
           </a>
         </p>
