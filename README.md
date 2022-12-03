@@ -1,7 +1,10 @@
 <div align="center">
 <h1 align="center">Hi there 👋, I'm Mutasim</h1>
-<h4 align="center"><span color="#f85149" style="color: #f85149;"><</span><span>Software Engineer</span><span style="color: #f85149;">/></span></h4>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
+<!-- <h4 align="center"><span color="#f85149" style="color: #f85149;"><</span><span>Software Engineer</span><span style="color: #f85149;">/></span></h4> -->
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+</p>
+<!-- <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p> -->
 </div>
 <div align="center">
   <img  src="https://github.com/MutasimSweileh/MutasimSweileh/blob/main/grid-snake.svg"
@@ -49,16 +52,16 @@ Know about my experiences <a href="https://github.com/MutasimSweileh/MutasimSwei
 <h3>Quick Stats</h3>
         <p align="center">
           <a href="https://github.com/MutasimSweileh/">
-            <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirazazy&theme=dark&hide=TCL" alt="MutasimSweileh :: overall Top Langs " />
-<!-- 
-                            <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutasimSweileh&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="MutasimSweileh :: overall Top Langs " /> -->
-          <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MutasimSweileh&theme=gruvbox&layout=compact&hide_border=true"
+            <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirazazy&theme=dark&hide=TCL" alt="MutasimSweileh :: overall Top Langs " /> -->
+                            <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutasimSweileh&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="MutasimSweileh :: overall Top Langs " />
+          <img width="25%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MutasimSweileh&theme=gruvbox&layout=compact&hide_border=true"
           alt="MutasimSweileh :: Top Langs by repo" />
-          <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MutasimSweileh&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="25%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MutasimSweileh&theme=gruvbox&layout=compact&hide_border=true"
           alt="MutasimSweileh :: Top Langs by commit" />
           </a>
         </p>
+
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
