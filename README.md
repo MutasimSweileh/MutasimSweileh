@@ -35,19 +35,13 @@ Know about my experiences <a href="https://github.com/MutasimSweileh/MutasimSwei
 
 ✨ Area of expertise
 
-✅ HTML5 / CSS3 ( LESS, SCSS )
+✅ Programming Languages: JavaScript, TypeScript, HTML, CSS/Sass, Python, PHP, Dart, Java, C#, ASP.
 
-✅ JavaScript / Typescript / jQuery / Ajax
+✅ Frameworks: Laravel, React & React Native, Vue.js, WordPress, Django, Flutter, Apache, Nginx, Unit testing.
 
-✅ React.js / Node.js / Vue.js / Bootstrap
+✅ Databases: MongoDB, MYSQL, SQLite, Postgres, Firebase.
 
-✅ PHP / Laravel / MySQL / Postgress / MongoDB
-
-✅ Git / Github
-
-✅ WordPress / Theme, Plugins Development / WP Customization
-
-✅ Nginx / apache /docker / Cloud Services such as AWS, Digitalocean <br/>
+✅ Tools: Bash, Git & Github, Docker, Chrome DevTools, Postman, Azure, AWS, Circleci (CI/CD). <br/>
 
 <h3>Quick Stats</h3>
         <p align="center">
